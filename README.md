@@ -29,9 +29,9 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to see 
 ## App Preview
 
 <div align="center">
-  <img src="screenshots/dashboard.png" alt="Expense AI Dashboard" width="800"/>
+  <img src="public/screenshots/dashboard.png" alt="Expense AI Dashboard" width="800"/>
   <br />  
-  <img src="screenshots/insights_history.png" alt="AI Insights & Expense History" width="800"/>
+  <img src="public/screenshots/insights_history.png" alt="AI Insights & Expense History" width="800"/>
 </div>
 
 ---
