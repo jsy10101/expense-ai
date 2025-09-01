@@ -4,6 +4,7 @@ Expense AI is an intelligent expense tracking app with smart categorization, AI-
 
 ## Table of Contents
 
+-   [App Preview](#app-preview)
 -   [Getting Started](#getting-started)
 -   [Features](#features)
     -   [Authentication](#authentication)
@@ -22,6 +23,16 @@ npm run dev
 ```
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
+
+---
+
+## App Preview
+
+<div align="center">
+  <img src="screenshots/dashboard.png" alt="Expense AI Dashboard" width="800"/>
+  <br />  
+  <img src="screenshots/insights_history.png" alt="AI Insights & Expense History" width="800"/>
+</div>
 
 ---
 
