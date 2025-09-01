@@ -36,9 +36,7 @@ export default function Navbar() {
                                 <span className="hidden sm:inline">
                                     Expense AI
                                 </span>
-                                <span className="sm:hidden">
-                                    ExpenseTracker
-                                </span>
+                                <span className="sm:hidden">Expense</span>
                             </span>
                         </Link>
                     </div>

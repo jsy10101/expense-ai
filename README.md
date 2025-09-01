@@ -24,3 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### OpenRouter
 
 -   installed openai npm package and used openrouter platform to make ai suggestions to choose category of expense added (used the deepseek/deepseek-chat-v3-0324:free to make free api calls)
+
+### Charts
+
+-   used the chart.js and react-chartjs-2 (bar) library
